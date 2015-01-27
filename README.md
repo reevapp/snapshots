@@ -1,4 +1,4 @@
 snapshots
 =========
 
-Worldwide Website Snapshooting
+Worldwide Website Snapshotting
